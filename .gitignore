@@ -1,0 +1,8 @@
+venv/
+*.jpg,
+*.png,
+*.jpeg,
+*.gif,
+*.svg,
+*.ico,
+.DS_Store
